@@ -1,0 +1,9 @@
+fn int sub(int a, int b):
+    put(a);
+
+fn int main(void):
+    y = 9[int];
+    x = 12[int];
+    x = x++[int];
+    sub(x,y);
+    

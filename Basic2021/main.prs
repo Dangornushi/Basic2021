@@ -1,0 +1,17 @@
+01sub
+;04int
+;06rax0 0
+;04int
+;06rax1 1
+;11rax1
+01main
+;04int
+;02rax1 9
+;04int
+;02rax2 12
+;04int
+;02rax3 1
+;21rax2 rax3
+;02rax2 rax2
+;05sub[rax2 rax1 ]
+01L0
